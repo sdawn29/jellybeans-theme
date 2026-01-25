@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Jellybeans Zed",
+  "name": "Jellybeans Theme",
   "author": "Snehasish Dawn",
   "themes": [
     {
-      "name": "Jellybeans Zed",
+      "name": "Jellybeans Theme",
       "appearance": "dark",
       "accents": [
         "#cf6a4c",
